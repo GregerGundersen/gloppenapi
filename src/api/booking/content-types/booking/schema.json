@@ -32,6 +32,9 @@
     },
     "roomNumber": {
       "type": "integer"
+    },
+    "message": {
+      "type": "text"
     }
   }
 }
